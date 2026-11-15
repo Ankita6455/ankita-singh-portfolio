@@ -95,7 +95,7 @@ export default function About() {
                 <>
                   <img
                     src={portraitSrc}
-                    alt={`${personalInfo.name} — ${personalInfo.role}`}
+                    alt="ANKITA SINGH — Data Analyst, TAP Academy student"
                     className="grayscale contrast-125 object-cover w-full h-full"
                   />
                   <div
